@@ -1,4 +1,5 @@
 # Arab Markets Sales and Pricing Analysis
+<img width="773" height="404" alt="Screenshot 2026-02-08 184609" src="https://github.com/user-attachments/assets/0e0cee2c-a073-42e5-b3cf-7d1cb05f11f1" />
 
 ![Dashboard Overview](<img width="773" height="404" alt="Screenshot 2026-02-08 184609" src="https://github.com/user-attachments/assets/62269b19-eeb3-483c-bfde-15efe22a5385" />
 )
