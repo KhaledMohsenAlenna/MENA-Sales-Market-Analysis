@@ -1,6 +1,7 @@
 # Arab Markets Sales and Pricing Analysis
 
-![Dashboard Overview](dashboard.png)
+![Dashboard Overview](<img width="773" height="404" alt="Screenshot 2026-02-08 184609" src="https://github.com/user-attachments/assets/62269b19-eeb3-483c-bfde-15efe22a5385" />
+)
 
 ## Project Overview
 This project leverages **Tableau** to visualize and analyze sales performance, pricing strategies, and customer distribution across the Arab region (North Africa and the Middle East). The objective is to derive actionable business insights regarding product demand, seasonal fluctuations, and regional market penetration.
